@@ -14,7 +14,7 @@ if __name__ == '__main__':
     print("🚀 Starting server...")
     print("🌐 Open your browser and go to: http://localhost:5000")
     print("📱 Or from another device: http://[your-ip]:5000")
-    print("⏹️  Press Ctrl+C to stop the server")
+    print("⏹️  Press Ctrl+C to stop the server_")
     print("=" * 50)
     
     try:
